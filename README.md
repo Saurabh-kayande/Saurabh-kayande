@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cloud & DevOps Engineer specializing in designing, implementing, and optimizing secure, cost-effective cloud<br>infrastructure on AWS. Proficient in Infrastructure as Code (IaC) using Terraform and AWS CloudFor<br>mation, and experienced in automating Windows Server migrations to AWS. Strong scripting skills in PowerShell,<br>Python, and Bash for deployment automation and operations. Proven track record collaborating with network,<br>security, and client technology teams to deliver robust, compliant solutions aligned with business requirements and<br>industry best practices
+Cloud & DevOps Engineer specializing in designing, implementing, and optimizing secure, cost-effective cloud infrastructure on AWS. Proficient in Infrastructure as Code (IaC) using Terraform and AWS CloudFormation with strong experience in CI/CD pipeline design and automation using Jenkins.Experienced in using Ansible for infrastructure automation, server configuration, patch management, and environment standardization to ensure consistency and reliability. Strong scripting skills in PowerShell, Python, and Bash for deployment automation and operations. Proven track record collaborating with network,security, and client technology teams to deliver robust, compliant solutions aligned with business requirements and industry best practices.
 
 
 ## 🌐 Socials:
